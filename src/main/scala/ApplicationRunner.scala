@@ -1,6 +1,6 @@
-object ApplicationRunner {
+object ApplicationRunner extends App {
 
-  println("Yasser Alejandro Palacios")
+  println("Yasser Alejandro Palacios ....")
 
 
 }
