@@ -123,5 +123,5 @@ object CurriesPAF extends App {
   val bf5 = byFunction(parenMethod _)
 
   //left on 5:24 of 34 minutes
-  
+
 }
