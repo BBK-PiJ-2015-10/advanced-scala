@@ -107,7 +107,7 @@ object FuturesAndPromises extends App {
   Thread.sleep(2000)
 
 
-  
+
   case class User(name: String)
   case class Transaction(sender: String, receiver: String, amount: Double, status: String)
 
