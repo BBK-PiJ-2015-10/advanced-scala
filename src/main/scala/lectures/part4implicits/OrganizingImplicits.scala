@@ -69,8 +69,4 @@ object OrganizingImplicits extends App {
    */
 
 
-
-
-
-
 }
